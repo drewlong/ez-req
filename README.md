@@ -2,7 +2,7 @@
 
 EZ Req is just a simple tool to test API calls using a web interface. A live example can be found [here]( http://drewlong.github.io/ez-req).
 
-To install, simple clone the repo, then:
+To install, simply clone the repo, then:
 
 `npm install`
 
