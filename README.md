@@ -1,6 +1,6 @@
 # EZ Req
 
-EZ Req is just a simple tool to test API calls using a web interface. A live example can be found [here]( http://drewlong.github.io/ez-req).
+EZ Req is just a simple tool to test API calls using a web interface. A live example can be found [here](http://www.ezreq.live/).
 
 To install, simply clone the repo, then:
 
